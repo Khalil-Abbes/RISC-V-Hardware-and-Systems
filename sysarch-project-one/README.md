@@ -1,6 +1,6 @@
 # Hardware Design with Chisel
 
-**Course:** System Architecture, SS2024, Saarland University  
+**Course:** System Architecture, Saarland University  
 **Instructor:** Prof. Dr. Jan Reineke
 
 ## Project Context
