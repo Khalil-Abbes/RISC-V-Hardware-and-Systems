@@ -1,7 +1,7 @@
 # riscv-hardware-and-systems
 
 ## Overview
-This repository contains my student implementations for the two projects of the System Architecture course. The projects cover hardware design using the Chisel HDL and low-level system programming in RISC-V assembly.
+The projects cover hardware design using the Chisel HDL and low-level system programming in RISC-V assembly.
 
 ## Projects
 
