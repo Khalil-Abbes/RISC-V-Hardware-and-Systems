@@ -1,7 +1,4 @@
-# System Architecture
-
-**Course:** System Architecture, Saarland University  
-**Instructor:** Prof. Dr. Jan Reineke
+# riscv-hardware-and-systems
 
 ## Overview
 This repository contains my student implementations for the two projects of the System Architecture course. The projects cover hardware design using the Chisel HDL and low-level system programming in RISC-V assembly.
