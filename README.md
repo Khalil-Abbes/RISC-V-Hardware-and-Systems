@@ -1,4 +1,4 @@
-# riscv-hardware-and-systems
+# RISC-V Hardware and Systems
 
 ## Overview
 The projects cover hardware design using the Chisel HDL and low-level system programming in RISC-V assembly.
