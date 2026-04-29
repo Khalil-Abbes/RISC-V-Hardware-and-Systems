@@ -1,8 +1,5 @@
 # Hardware Design with Chisel
 
-**Course:** System Architecture, Saarland University  
-**Instructor:** Prof. Dr. Jan Reineke
-
 ## Project Context
 This repository contains my student implementations for a hardware design project using the Chisel hardware description language.
 
